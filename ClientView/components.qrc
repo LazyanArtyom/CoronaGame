@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>graphical/covidbg.jpg</file>
+        <file>graphical/covid.png</file>
+        <file>graphical/invader.png</file>
+        <file>graphical/mainLogo.png</file>
+        <file>graphical/SpaceInvadersBg.jpg</file>
+        <file>graphical/covidlogo.png</file>
+    </qresource>
+</RCC>
