@@ -37,9 +37,7 @@ public slots:
     void onGameOver(QMap<QString, int>);
     void onItemSelected(QPair<int, int> parIndex);
     void onUpdateFileds(QList<SValue> lstValue);
-    //
-    /// Mezi qfur tvoxi .................
-    //
+ 
     void onFirstClient();
     void onClientSettings(int nRow, int nCol, int nGridType, int nPlayerCount);
 
